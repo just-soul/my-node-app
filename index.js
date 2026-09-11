@@ -1,6 +1,6 @@
 const http = require('http');
 
-const fio = "";
+const fio = "Дема Илья Максимович";
 const group = 478;
 const journal_number = 6; 
 
@@ -16,7 +16,6 @@ class AppServer extends EventEmitter{
 			 	res.end(`
     				<p>ФИО: ${fio}</p>
 					<p>ГРУППА: ${group}</p>
-					<p>ЧИСЛО ПИ:  ${journal_number} ${piValue}</p>
     				`);
     				});
 
@@ -32,12 +31,6 @@ class AppServer extends EventEmitter{
 				},10000);
 			}	
 		}	
-  
-function PI(precision) {
-	const pi = 355/113
-	return pi.toFixed(precision);
-}
-const piValue = PI(journal_number);
 
 const server = new AppServer();
 setupLogger(server);
@@ -50,7 +43,5 @@ server.on('request:received',(req) =>{
 server.on('server:stopped',()=>{
 	console.log(`Сервер остановлен`);
 });
-server.start(8080);
+server.start(5555);
 server.stop();
-    //   http://localhost:8080
-
