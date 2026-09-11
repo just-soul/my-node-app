@@ -1,0 +1,6 @@
+[08:53:53] server:started: localhost:5555
+[08:53:53] request:received: / GET
+[08:53:53] request:received: /favicon.ico GET
+[08:53:53] request:received: / GET
+[08:53:53] request:received: /favicon.ico GET
+[08:53:53] server:stopped: localhost: Сервер отключен

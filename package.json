@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-soul/my-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/just-soul/my-node-app/issues"
+  },
+  "homepage": "https://github.com/just-soul/my-node-app#readme"
 }
