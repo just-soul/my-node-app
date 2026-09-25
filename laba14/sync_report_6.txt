@@ -1,0 +1,9 @@
+=== Отчёт синхронизации ===
+Дата: 2026-09-25T20:37:00.532Z
+Source: /home/misogyny/my-node-app/laba14/source_6
+Backup: /home/misogyny/my-node-app/laba14/backup_6
+
+Совпадают: 15
+Изменены: 0
+Добавлены: 0
+Удалены: 0

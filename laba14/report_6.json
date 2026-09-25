@@ -1,0 +1,94 @@
+{
+  "variant": 6,
+  "scannedDirectory": "/home/misogyny/my-node-app/laba14",
+  "scannedAt": "2026-09-25T20:33:18.811Z",
+  "totalFolders": 20,
+  "totalFiles": 54,
+  "totalSizeBytes": 1350974,
+  "totalSizeKB": "1319.31",
+  "totalSizeMB": "1.29",
+  "byExtension": {
+    ".gif": {
+      "count": 2,
+      "size": 500
+    },
+    ".txt": {
+      "count": 15,
+      "size": 1231247
+    },
+    ".json": {
+      "count": 7,
+      "size": 5494
+    },
+    ".md": {
+      "count": 9,
+      "size": 809
+    },
+    ".jpg": {
+      "count": 4,
+      "size": 4620
+    },
+    ".png": {
+      "count": 6,
+      "size": 85724
+    },
+    ".js": {
+      "count": 11,
+      "size": 22580
+    }
+  },
+  "top5Largest": [
+    {
+      "name": "big_file.txt",
+      "path": "/home/misogyny/my-node-app/laba14/backup_6/big_file.txt",
+      "size": 614400
+    },
+    {
+      "name": "big_file.txt",
+      "path": "/home/misogyny/my-node-app/laba14/source_6/big_file.txt",
+      "size": 614400
+    },
+    {
+      "name": "task2_result.png",
+      "path": "/home/misogyny/my-node-app/laba14/screenshots/task2_result.png",
+      "size": 43367
+    },
+    {
+      "name": "task1_result.png",
+      "path": "/home/misogyny/my-node-app/laba14/screenshots/task1_result.png",
+      "size": 38537
+    },
+    {
+      "name": "task5.js",
+      "path": "/home/misogyny/my-node-app/laba14/task5.js",
+      "size": 9152
+    }
+  ],
+  "top5Smallest": [
+    {
+      "name": "README.md",
+      "path": "/home/misogyny/my-node-app/laba14/project_6/data/input/README.md",
+      "size": 27
+    },
+    {
+      "name": "info.txt",
+      "path": "/home/misogyny/my-node-app/laba14/project_6/data/input/info.txt",
+      "size": 27
+    },
+    {
+      "name": "README.md",
+      "path": "/home/misogyny/my-node-app/laba14/project_6/data/output/README.md",
+      "size": 27
+    },
+    {
+      "name": "README.md",
+      "path": "/home/misogyny/my-node-app/laba14/project_6/data/results/README.md",
+      "size": 27
+    },
+    {
+      "name": "README.md",
+      "path": "/home/misogyny/my-node-app/laba14/project_6/data/temp/README.md",
+      "size": 27
+    }
+  ]
+}
