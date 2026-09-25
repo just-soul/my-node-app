@@ -1,0 +1,72 @@
+[
+  {
+    "name": "notes_6.txt",
+    "size": 200,
+    "path": "./notes_6.txt"
+  },
+  {
+    "name": "script_6.js",
+    "size": 150,
+    "path": "./script_6.js"
+  },
+  {
+    "name": "config_6.json",
+    "size": 100,
+    "path": "./config_6.json"
+  },
+  {
+    "name": "picture_6.jpg",
+    "size": 300,
+    "path": "./picture_6.jpg"
+  },
+  {
+    "name": "photo_6.png",
+    "size": 400,
+    "path": "./photo_6.png"
+  },
+  {
+    "name": "animation_6.gif",
+    "size": 250,
+    "path": "./animation_6.gif"
+  },
+  {
+    "name": "readme_6.md",
+    "size": 300,
+    "path": "./docs/readme_6.md"
+  },
+  {
+    "name": "guide_6.txt",
+    "size": 500,
+    "path": "./docs/guide_6.txt"
+  },
+  {
+    "name": "app_6.js",
+    "size": 800,
+    "path": "./scripts/app_6.js"
+  },
+  {
+    "name": "utils_6.js",
+    "size": 600,
+    "path": "./scripts/utils_6.js"
+  },
+  {
+    "name": "data_6.json",
+    "size": 400,
+    "path": "./scripts/data_6.json"
+  },
+  {
+    "name": "logo_6.png",
+    "size": 1500,
+    "path": "./images/logo_6.png"
+  },
+  {
+    "name": "banner_6.jpg",
+    "size": 2000,
+    "path": "./images/banner_6.jpg"
+  },
+  {
+    "name": "big_file.txt",
+    "size": 614400,
+    "path": "./big_file.txt"
+  }
+]
