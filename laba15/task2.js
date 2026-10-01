@@ -6,7 +6,7 @@ const app = new Koa();
 const router = new Router();
 
 let users = [
-    { id: 1, name: 'Иванов Иван', group: 'ББМО-01-23' }
+    { id: 1, name: 'Илья Дема', group: '478' }
 ];
 let nextId = 2;
 
