@@ -1,0 +1,11 @@
+/home/misogyny/my-node-app/laba17/target/debug/deps/console-7dd69e05fd3eef1f.d: /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/lib.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/common_term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/kb.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/unix_term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/utils.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/ansi.rs
+
+/home/misogyny/my-node-app/laba17/target/debug/deps/libconsole-7dd69e05fd3eef1f.rmeta: /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/lib.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/common_term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/kb.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/unix_term.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/utils.rs /home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/ansi.rs
+
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/lib.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/common_term.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/kb.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/term.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/unix_term.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/utils.rs:
+/home/misogyny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/console-0.16.6/src/ansi.rs:
