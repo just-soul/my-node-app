@@ -6,7 +6,10 @@ edition = "2024"
 [dependencies]
 chrono = "0.4.45"
 clap = { version = "4.6.7", features = ["derive"] }
+colored = "3.1.1"
+console = "0.16.6"
 dialoguer = "0.12.0"
+indicatif = "0.18.6"
 
 [[bin]]
 name = "laba17"
@@ -19,3 +22,11 @@ path = "src2/main.rs"
 [[bin]]
 name = "task3"
 path = "src3/main.rs"
+
+[[bin]]
+name = "task4"
+path = "src4/main.rs"
+
+[[bin]]
+name = "task5"
+path = "src5/main.rs"
